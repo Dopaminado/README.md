@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
-  Meu nome é João Carlos, sou desenvolvedor full stack, apaixonado por programação.<br>
+  Meu nome é João Carlos, sou desenvolvedor full stack e apaixonado por programação.<br><br>
   Trabalho na empresa Spezi e curso ciência da computação.
 </p>
 
