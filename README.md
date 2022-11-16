@@ -2,11 +2,10 @@
 
 <p align="left"> 
   Meu nome é João Carlos, sou desenvolvedor full stack e apaixonado por programação.<br><br>
-  Trabalho na empresa Spezi e curso ciência da computação.
 </p>
 
 <p align="left">
-  🦄 Linguagens: <strong>Javascrip and Ruby</strong>
+  🦄 Linguagens: <strong>Javascript and Ruby</strong>
 </p>
 
 <p align="left">
