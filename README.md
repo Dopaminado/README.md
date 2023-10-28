@@ -3,7 +3,6 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joaocarlopa)
 
 ![joao-carlos-pereira-alves's Stats](https://github-readme-stats.vercel.app/api?username=joao-carlos-pereira-alves&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
-![joao-carlos-pereira-alves's Streak](https://github-readme-streak-stats.herokuapp.com/?user=joao-carlos-pereira-alves&theme=vue-dark&hide_border=true)
 ![joao-carlos-pereira-alves's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=joao-carlos-pereira-alves&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
 ## Tecnologias que eu uso no meu dia
