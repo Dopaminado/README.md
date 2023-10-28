@@ -2,8 +2,13 @@
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joaocarlopa)
 
-![joao-carlos-pereira-alves's Stats](https://github-readme-stats.vercel.app/api?username=joao-carlos-pereira-alves&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
-![joao-carlos-pereira-alves's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=joao-carlos-pereira-alves&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+<div style="width: 100%;">
+  ![joao-carlos-pereira-alves's Stats](https://github-readme-stats.vercel.app/api?username=joao-carlos-pereira-alves&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+</div>
+
+<div style="width: 100%;">
+  ![joao-carlos-pereira-alves's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=joao-carlos-pereira-alves&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+</div>
 
 ## Tecnologias que eu uso no meu dia
 
